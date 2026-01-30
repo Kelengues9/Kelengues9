@@ -4,8 +4,8 @@
 
 <div align="center">
 
-# 👋 Angel Martinez  
-### Computer Engineering | FPGA • Embedded • IoT • Digital Systems
+#  Angel M  
+### Computer Engineering | FPGA • Embedded • Digital Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=Verilog+%7C+FPGA+Development;Embedded+C+%7C+Microcontrollers;IoT+Simulation+%7C+MQTT;Digital+Systems+%7C+UART+%26+Timing" />
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-### 🧩 “If it passes simulation *and* hardware, you’re winning.”  
-🐶 Powered by dogs and HDL.
+### 🐶 Powered by dogs and HDL. 
+
 
 </div>
