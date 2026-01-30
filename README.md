@@ -63,17 +63,6 @@
 - Modeled **latency, mobility, and broker failover**
 - Analyzed system reliability and performance
 
----
-
-## 💼 Coding Experience
-
-### 🛰️ Implementation Specialist — Occuspace  
-*Jul 2025 – Oct 2025*
-- Configured and debugged **embedded IoT systems**
-- Troubleshot **BLE/Wi-Fi firmware and data pipelines**
-- Validated system behavior using software tools
-
----
 
 <div align="center">
 
