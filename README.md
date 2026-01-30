@@ -11,7 +11,8 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260" alt="Chihuahua gif" />
+<!-- Dog / Chihuahua GIF -->
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="260" alt="Happy dog gif" />
 
 <br/>
 
@@ -27,8 +28,7 @@
 ## 💻 About Me
 - 🎓 Computer Engineering @ **San Diego State University** (Expected May 2026)
 - 🧠 Focused on **FPGA design**, **embedded software**, and **digital systems**
-- 🗣️ Bilingual: English & Spanish
-- 🎮 Interested in hardware-driven graphics, games, and real-time systems
+- 🎮 Interested in real-time systems, hardware-driven graphics, and games
 
 ---
 
@@ -36,47 +36,47 @@
 **Languages:** `Verilog` `Embedded C` `Python`  
 **FPGA / EDA:** `Vivado` `Cadence Virtuoso`  
 **Protocols:** `UART` `SPI` `MQTT`  
-**Systems:** `Microcontrollers` `Digital Timing` `Verification`
 
 ---
 
 ## 🚀 Coding Projects
 
 ### 🔐 AES-128 Encryption Engine (FPGA | Verilog)
-- Designed and implemented **AES-128 encryption** in Verilog
-- Integrated **UART and SPI** communication interfaces
-- Built a **self-checking testbench** for functional verification
+- Implemented **AES-128 encryption** core in Verilog
+- Integrated **UART and SPI** interfaces
+- Developed a **testbench** for functional verification
 - Verified timing and correctness using **Vivado simulation**
 
 ---
 
 ### ⏱️ FPGA Digital Systems (Verilog | Basys-3)
-- Implemented a **UART transmitter/receiver**
-- Designed a **digital clock system** with precise timing constraints
-- Verified designs via **simulation and hardware testing**
-- Emphasis on **synchronous design** and timing closure
+- Designed a **UART TX/RX** module
+- Implemented a **digital clock system**
+- Emphasized **synchronous logic and timing closure**
+- Tested on real FPGA hardware
 
 ---
 
 ### 📡 IoT Network Simulation (Python | MQTT)
-- Simulated **IoT sensor networks** using MQTT protocols
-- Modeled **sensor mobility, broker failover, and latency**
-- Analyzed **reliability and performance** under varying network conditions
-- Focus on **software-based system modeling and analysis**
+- Simulated **IoT sensor networks** using MQTT
+- Modeled **latency, mobility, and broker failover**
+- Analyzed system reliability and performance
 
-## 📈 GitHub Stats
-<div align="center">
+---
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+## 💼 Coding Experience
 
-</div>
+### 🛰️ Implementation Specialist — Occuspace  
+*Jul 2025 – Oct 2025*
+- Configured and debugged **embedded IoT systems**
+- Troubleshot **BLE/Wi-Fi firmware and data pipelines**
+- Validated system behavior using software tools
 
 ---
 
 <div align="center">
 
-### 🧩 “If it simulates, it *might* work. If it works on hardware — it’s real.”  
-⭐ Feel free to explore my repos!
+### 🧩 “If it passes simulation *and* hardware, you’re winning.”  
+🐶 Powered by dogs and HDL.
 
 </div>
