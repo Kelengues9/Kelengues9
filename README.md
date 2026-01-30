@@ -12,7 +12,8 @@
 <br/>
 
 <!-- Dog / Chihuahua GIF -->
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="260" alt="Happy dog gif" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1tNWgyZGk2aXN2OWFvc253OWdjZHY2a2p3Ymo1bm1qNGtiMzNodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pnm6njIwcWdwp3yl6n/giphy.gif" width="260" alt="Cool dog gif" />
+
 
 <br/>
 
